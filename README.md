@@ -5,3 +5,6 @@ nestedList
 2. name, *line = input().split() *line means line is list
 3. print(d) (d is deque) print result is deque(['1', '2']), *d result (1,2)
 5. every time counter -=1, when size use out, it is 0
+6. namedtuple: {:.2f} format, namedtuple('Student', input()) Point = namedtuple('Point','x,y')
+>>> pt1 = Point(1,2)
+the first line, input the name of list, the name of list can be a string. 
