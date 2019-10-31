@@ -12,3 +12,4 @@ the first line, input the name of list, the name of list can be a string.
 8. OrderedCounter can be used directed by : 
 class OrderedCounter(Counter, OrderedDict):
     pass
+9. OrderedCounter(inside can use sorted()).most_common function
