@@ -15,3 +15,4 @@ class OrderedCounter(Counter, OrderedDict):
 9. OrderedCounter(inside can use sorted()).most_common function
 10. set, can use > to compare, all() all true or not
 11. usage of set's symmetric_difference, union, difference
+12.usage of discard of set: won't throw an error if the item to be removed doesn't exist
