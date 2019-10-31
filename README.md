@@ -20,3 +20,4 @@ class OrderedCounter(Counter, OrderedDict):
 14. this one more like a math problem
 15. usage of itertools, permutation, product
 16. difference between combination_with_replacment and combination. combination(string, number of combination)
+16+1, itertool, groupby, for c,x in groupby(): c is # ['1'] # ['2', '2', '2'] # ['3'] # ['3']
