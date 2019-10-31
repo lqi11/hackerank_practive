@@ -13,3 +13,4 @@ the first line, input the name of list, the name of list can be a string.
 class OrderedCounter(Counter, OrderedDict):
     pass
 9. OrderedCounter(inside can use sorted()).most_common function
+10. set, can use > to compare, all() all true or not
