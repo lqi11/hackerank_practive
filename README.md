@@ -18,3 +18,4 @@ class OrderedCounter(Counter, OrderedDict):
 12.usage of discard of set: won't throw an error if the item to be removed doesn't exist
 13. usage of set difference_update, symmetric_difference_update
 14. this one more like a math problem
+15. usage of itertools, permutation, product
